@@ -77,7 +77,7 @@ Emergency contacts & authorities are notified
 
 📌 Installation & Setup
 # Clone repository
-git clone https://github.com/Amirchoudhary09/AshGuard.git
+git clone https://github.com/kaifali532/ASHGUARD.git
 
 # Install frontend dependencies
 cd frontend
@@ -111,11 +111,11 @@ $13.38B+ Safety Tech Market by 2030
 Rapid growth in AI Travel Industry
 
 👨‍💻 Authors
-Amir Choudhary
+md kaif
 
-LinkedIn: https://linkedin.com/in/amirchoudhary09
+LinkedIn: https://linkedin.com/in/md-kaif
 
-GitHub: https://github.com/Amirchoudhary09
+GitHub: https://github.com/kaifali532
 
 Arsh Chaudhary
 
