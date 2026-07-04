@@ -112,13 +112,3 @@ Rapid growth in AI Travel Industry
 
 👨‍💻 Authors
 md kaif
-
-LinkedIn: https://linkedin.com/in/md-kaif
-
-GitHub: https://github.com/kaifali532
-
-Arsh Chaudhary
-
-LinkedIn: https://www.linkedin.com/in/arsh-chaudhary-63a269258
-
-GitHub: https://github.com/ash92744
